@@ -99,6 +99,28 @@
       "personalityTraits": [
         "hungry"
       ]
+    },
+    {
+      "name": "Larry",
+      "species": "lemur",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "10"
+    },
+    {
+      "name": "Mr. Papa Bear",
+      "species": "Bear",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "anxious",
+        "loving",
+        "goofy"
+      ],
+      "id": "11"
     }
   ]
 }
